@@ -1,0 +1,12 @@
+name: Cat333SS
+main: com.cat333ss.chestfix.Main
+version: 1.0
+api-version: "1.21"
+author: neting1ezz-create
+
+commands:
+  ss:
+    description: Staff spawner commands
+    usage: /<command> spawn
+  arena:
+    description: Show arena message
